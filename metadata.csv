@@ -1,0 +1,51 @@
+id,philosopher,work_title,domain,era,source,done,local_path
+1,Plato,Republic,"Ethics, Epistemology, Metaphysics",Ancient,Project Gutenberg,True,../data/raw_text/Republic.txt
+2,Plato,Phaedo,"Metaphysics, Epistemology",Ancient,Project Gutenberg,True,../data/raw_text/Phaedo.txt
+3,Aristotle,Nicomachean Ethics,Ethics,Ancient,Project Gutenberg,,
+4,Aristotle,Metaphysics,Metaphysics,Ancient,Project Gutenberg,,
+5,Epictetus,Enchiridion,Ethics,Ancient,Project Gutenberg,True,../data/raw_text/Enchiridion.txt
+6,Marcus Aurelius,Meditations,Ethics,Ancient,Project Gutenberg,True,../data/raw_text/Meditations.txt
+7,Plotinus,Enneads,Metaphysics,Ancient,Internet Archive,,
+8,Augustine,Confessions,"Ethics, Metaphysics",Medieval,Project Gutenberg,True,../data/raw_text/Confessions.txt
+9,Augustine,City of God,"Metaphysics, Ethics",Medieval,Project Gutenberg,True,../data/raw_text/City of God.txt
+10,Boethius,The Consolation of Philosophy,"Epistemology, Ethics",Medieval,Project Gutenberg,True,../data/raw_text/The Consolation of Philosophy.txt
+11,Avicenna,Metaphysics of the Healing,Metaphysics,Medieval,Internet Archive,,
+12,Averroes,The Incoherence of the Incoherence,Epistemology,Medieval,Internet Archive,,
+13,Thomas Aquinas,Summa Theologica (Selections),"Ethics, Metaphysics",Medieval,Project Gutenberg,True,../data/raw_text/Summa Theologica (Selections).txt
+14,Anselm of Canterbury,Proslogion,Metaphysics,Medieval,Project Gutenberg,,
+15,René Descartes,Meditations on First Philosophy,"Epistemology, Metaphysics",Modern,Project Gutenberg,True,../data/raw_text/Meditations on First Philosophy.txt
+16,René Descartes,Discourse on Method,Epistemology,Modern,Project Gutenberg,True,../data/raw_text/Discourse on Method.txt
+17,Baruch Spinoza,Ethics,"Ethics, Metaphysics",Modern,Project Gutenberg,,
+18,John Locke,Essay Concerning Human Understanding,Epistemology,Modern,Project Gutenberg,True,../data/raw_text/Essay Concerning Human Understanding.txt
+19,George Berkeley,Treatise Concerning the Principles of Human Knowledge,Metaphysics,Modern,Project Gutenberg,True,../data/raw_text/Treatise Concerning the Principles of Human Knowledge.txt
+20,David Hume,Enquiry Concerning Human Understanding,Epistemology,Modern,Project Gutenberg,True,../data/raw_text/Enquiry Concerning Human Understanding.txt
+21,David Hume,Treatise of Human Nature,"Ethics, Epistemology",Modern,Project Gutenberg,True,../data/raw_text/Treatise of Human Nature.txt
+22,Immanuel Kant,Groundwork of the Metaphysics of Morals,Ethics,Modern,Project Gutenberg,,
+23,Immanuel Kant,Critique of Pure Reason,"Epistemology, Metaphysics",Modern,Project Gutenberg,True,../data/raw_text/Critique of Pure Reason.txt
+24,Jean-Jacques Rousseau,The Social Contract,Ethics,Modern,Project Gutenberg,True,../data/raw_text/The Social Contract.txt
+25,Thomas Hobbes,Leviathan,"Ethics, Political Philosophy",Modern,Project Gutenberg,True,../data/raw_text/Leviathan.txt
+26,Blaise Pascal,Pensées,"Ethics, Epistemology",Modern,Project Gutenberg,True,../data/raw_text/Pensées.txt
+27,G.W.F. Hegel,Phenomenology of Spirit,"Epistemology, Metaphysics",19th,Internet Archive,,
+28,Arthur Schopenhauer,The World as Will and Representation,"Ethics, Metaphysics",19th,Project Gutenberg,True,../data/raw_text/The World as Will and Representation.txt
+29,John Stuart Mill,Utilitarianism,Ethics,19th,Project Gutenberg,True,../data/raw_text/Utilitarianism.txt
+30,John Stuart Mill,On Liberty,Ethics,19th,Project Gutenberg,True,../data/raw_text/On Liberty.txt
+31,Auguste Comte,Course of Positive Philosophy,Epistemology,19th,Internet Archive,,
+32,Søren Kierkegaard,Fear and Trembling,Ethics,19th,Project Gutenberg,,
+33,Friedrich Nietzsche,Beyond Good and Evil,"Ethics, Metaphysics",19th,Project Gutenberg,True,../data/raw_text/Beyond Good and Evil.txt
+34,Friedrich Nietzsche,Thus Spoke Zarathustra,"Ethics, Metaphysics",19th,Project Gutenberg,,
+35,Karl Marx,Theses on Feuerbach,"Metaphysics, Ethics",19th,Marxists.org,,
+36,Bertrand Russell,The Problems of Philosophy,Epistemology,20th,Project Gutenberg,True,../data/raw_text/The Problems of Philosophy.txt
+37,Ludwig Wittgenstein,Tractatus Logico-Philosophicus,"Epistemology, Logic",20th,Project Gutenberg,,
+38,Martin Heidegger,Being and Time,Metaphysics,20th,Internet Archive,,
+39,Jean-Paul Sartre,Existentialism Is a Humanism,"Ethics, Metaphysics",20th,Internet Archive,,
+40,Jean-Paul Sartre,Being and Nothingness,Metaphysics,20th,Internet Archive,,
+41,Albert Camus,The Myth of Sisyphus,Metaphysics,20th,Project Gutenberg,,
+42,Simone de Beauvoir,The Ethics of Ambiguity,Ethics,20th,Internet Archive,,
+43,Simone de Beauvoir,The Second Sex,Ethics,20th,Internet Archive,,
+44,Hannah Arendt,The Human Condition,Ethics,20th,Internet Archive,,
+45,Hannah Arendt,The Origins of Totalitarianism,Ethics,20th,Internet Archive,,
+46,A.J. Ayer,"Language, Truth and Logic",Epistemology,20th,Project Gutenberg,,
+47,Karl Popper,The Logic of Scientific Discovery,Epistemology,20th,Internet Archive,,
+48,Gilbert Ryle,The Concept of Mind,Metaphysics,20th,Internet Archive,,
+49,Alfred North Whitehead,Process and Reality,Metaphysics,20th,Internet Archive,,
+50,Peter Singer,Practical Ethics,Ethics,Contemporary,Author’s website,,
